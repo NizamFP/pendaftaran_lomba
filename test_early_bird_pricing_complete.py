@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 
 def test_competition_model_pricing():
     """Test Competition model pricing methods"""
-    print("=== Testing Competition Model Pricing Methods ===\n")
+    print("=== Testing Competition Model Pricing methods ===\n")
     
     # Mock the Competition class methods that we implemented
     class MockCompetition:
